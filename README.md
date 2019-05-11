@@ -1,6 +1,6 @@
-###### [GitHub](https://github.com/xAzz) | [Discord](https://discord.gg/wB3P92h)
-
 A real-time chat application made using NodeJS & WebSockets.
+
+###### [GitHub](https://github.com/xAzz) | [Discord](https://discord.gg/wB3P92h)
 
 ## Setup and Installation
 
